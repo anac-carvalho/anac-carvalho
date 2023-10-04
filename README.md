@@ -2,7 +2,7 @@ Helo world!
 
 Sou uma estusiasta de projetos de impacto socialambiental e alio isso com minha apaixão por tecnologia para contribuir cada vez mais e buscar sempre melhorar esse mundinho lindo que a gente vive! 🥰
 
-Sou Comunicadora Social e Bióloga e minha paixão por análise de dados nasceu aí, de uma ciêntista que ama olhar para as informações, ter insigths e compartilhá-los com todos!
+Sou Comunicadora Social e Bióloga e minha paixão por análise de dados e tecnologia nasceu aí, de uma ciêntista que ama olhar para as informações, ter insights e compartilhá-los com todos!
 
 Tenho habilidades em:
 
