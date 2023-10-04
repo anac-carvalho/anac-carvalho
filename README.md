@@ -10,7 +10,7 @@ Tenho habilidades em:
 - Front: Html, CSS
 - Análise de dados: Tableau, Excell
 - Design: Canva
-- Educação: GWS, Miro,
+- Educação: !(https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 - Gestão de Projetos: Trello, Pipefy
 -  
 Para trocar uma ideia você pode me mandar um e-mail ou no linkedin!
