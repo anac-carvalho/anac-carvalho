@@ -11,7 +11,7 @@ Tenho habilidades em:
 - Análise de dados: Tableau, Excell
 - Design: Canva
 - Educação:
-![alt text]([image.jpg](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white))
+![GWS]([image.jpg](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white))
   ![Miro](https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036)
 - 
 - Gestão de Projetos: Trello, Pipefy
