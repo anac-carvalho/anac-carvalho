@@ -4,7 +4,13 @@ Sou uma estusiasta de projetos de impacto socialambiental e alio isso com minha 
 
 Sou Comunicadora Social e Bióloga e minha paixão por análise de dados e tecnologia nasceu aí, de uma ciêntista que ama olhar para as informações, ter insights e compartilhá-los com todos!
 
-Tenho habilidades em:
+Para trocar uma ideia comigo:
+anaccarvalh@gmail.com
+  
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacamposdecarvalho/)
+
+
+Habilidades:
 
 - Back:
   
@@ -38,8 +44,3 @@ Tenho habilidades em:
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-Para trocar uma ideia comigo:
-
-anaccarvalh@gmail.com
-  
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacamposdecarvalho/)
