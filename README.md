@@ -38,6 +38,8 @@ Tenho habilidades em:
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-Para trocar uma ideia você pode me mandar um e-mail ou no linkedin!
+Para trocar uma ideia comigo:
+
 - anaccarvalh@gmail.com
+  
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacamposdecarvalho/)
