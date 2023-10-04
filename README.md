@@ -1,4 +1,4 @@
-Helo world!
+Hello World!
 
 Sou uma estusiasta de projetos de impacto socialambiental e alio isso com minha apaixão por tecnologia para contribuir cada vez mais e buscar sempre melhorar esse mundinho lindo que a gente vive! 🥰
 
