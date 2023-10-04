@@ -40,4 +40,4 @@ Tenho habilidades em:
 
 Para trocar uma ideia você pode me mandar um e-mail ou no linkedin!
 - anaccarvalh@gmail.com
-- [Linkedin](https://www.linkedin.com/in/anacamposdecarvalho/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacamposdecarvalho/)
